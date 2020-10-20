@@ -1,0 +1,16 @@
+{
+  "name": "corel2",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "typescript-logging": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.3",
+    "@types/node": "^14.11.10"
+  },
+  "engines": {
+    "node": ">=13.7"
+  }
+}
